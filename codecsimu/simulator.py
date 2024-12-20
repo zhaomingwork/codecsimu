@@ -1,3 +1,10 @@
+# This source code is licensed under the MIT license found in the
+# LICENSE file in the root directory of this source tree.
+##
+## Description:
+## Copyright 2024. All Rights Reserved.
+## Author: Zhao Ming (zhaomingwork@qq.com)
+##
 import subprocess
 import numpy as np
 import soundfile
